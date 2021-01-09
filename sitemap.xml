@@ -3,11 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.codecrumbs.dev/about/</loc>
+    <lastmod>2021-01-07T19:34:50+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.codecrumbs.dev/categories/</loc>
   </url>
   
   <url>
     <loc>https://www.codecrumbs.dev/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.codecrumbs.dev/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.codecrumbs.dev/series/</loc>
   </url>
   
   <url>
